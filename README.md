@@ -1,4 +1,4 @@
-Assignment for course project of "Getting and Cleaning data" session Jan 5th - Feb 2nd 2015
+Assignment for course project of "Getting and Cleaning data" session Jan 5th - Feb 2nd 2015, I am resubmitting my work to Feb session as the github link was not successfully submitted to the Jan session.
 
 >*Usage:*
  > - Copy run_analysis.R to your working directory
