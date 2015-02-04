@@ -1,4 +1,5 @@
 #this function is written to complete the course project of "Getting and Cleaning Data" hosted at Coursera, session Jan 5th - Feb 2nd 2015
+#I am resubmitting my work to Feb session as the github link was not successfully submitted to the Jan session.
 #before executing this function, please make sure you have copied samsung data under the working directory. In other words, a directory "UCI HAR Dataset"
 #should exist under the workign directory
 
