@@ -1,4 +1,4 @@
-Code book - Human Activity
+Code book - this code book describes the variables of the processed data from human activity recognition using smart phone dataset. The analysis combines data from training and testing dataset, replaces activity ids with activity labels, merges subjects, extract only mean and std of measurements and finally calculate mean values for each variable, each activity and each subject.
 
 ### Activity 
 - WALKING .Human Activity Walking  
